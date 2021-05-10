@@ -38,8 +38,7 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          Paid for by Citizens for Mike Andrade
-          © Copyright {new Date().getFullYear()}. All Rights Reserved. Digital Strategy Provided by{' '}
+          © Copyright {new Date().getFullYear()}. All Rights Reserved. Website Designed {' '}.
           <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
             Sage Media
           </a>
