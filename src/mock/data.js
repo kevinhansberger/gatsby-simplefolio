@@ -67,12 +67,17 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
+      name: 'facebook',
+      url: '',
+    },
+    {
+      id: nanoid(),
       name: 'twitter',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'codepen',
+      name: 'instagram',
       url: '',
     },
     {
